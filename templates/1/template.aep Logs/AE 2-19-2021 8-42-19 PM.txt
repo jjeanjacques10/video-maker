@@ -1,0 +1,7 @@
+Adobe After Effects v17.0 Windows 64 render log for project “template.aep”
+
+Rendering started on 2/19/2021 at 8:42:19 PM
+
+  2/19/2021 8:42:19 PM: Starting composition “main”.
+
+  Render Settings: Best Settings  Quality: Best  Resolution: Full  Size: 1920 x 1080  Proxy Use: Use No Proxies  Effects: Current Settings  Disk Cache: Read Only  Color Depth: Current Settings  Frame Blending: On for Checked Layers  Field Render: Off  Pulldown: Off  Motion Blur: On for Checked Layers  Solos: Current Settings  Time Span: Work Area  Start: 0:00:00:00  End: 0:01:14:29  Duration: 0:01:15:00  Frame Rate: 30.00 (comp)  Guide Layers: All Off  Skip Existing Files: Off    Output Module: Lossless  Output To: C:\Users\jjean\Documents\Projects\video-maker\content\output.mov  Format: QuickTime  Output Info: Apple ProRes 422 LT  Include: Project Link  Output Audio: 48.000 kHz / 16 bit / Stereo (if comp has audio)  Channels: RGB  Depth: Millions of Colors  Color: Premultiplied  Resize: -  Crop: -  Final Size: 1920 x 1080  Profile: -  Post-Render Action: None    0:00:00:00 (1): 1 Seconds  0:00:00:01 (2): 0 Seconds  0:00:00:02 (3): 0 Seconds  0:00:00:03 (4): 0 Seconds  0:00:00:04 (5): 0 Seconds  0:00:00:05 (6): 0 Seconds  0:00:00:06 (7): 1 Seconds  0:00:00:07 (8): 0 Seconds  0:00:00:08 (9): 0 Seconds  0:00:00:09 (10): 0 Seconds  0:00:00:10 (11): 1 Seconds  0:00:00:11 (12): 0 Seconds  0:00:00:12 (13): 0 Seconds  0:00:00:13 (14): 1 Seconds

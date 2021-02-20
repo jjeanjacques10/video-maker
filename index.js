@@ -12,8 +12,8 @@ async function start() {
     //await robots.image()
     await robots.video()
 
-    const content = robots.state.load()
-    console.dir(content, { depht: null })
+    //const content = robots.state.load()
+    //console.dir(content, { depht: null })
 }
 
 start()

@@ -14,10 +14,10 @@ const fromRoot = relPath => path.resolve(rootPath, relPath)
 async function robot() {
     const content = state.load()
 
-    //await convertAllImage(content)
-    //await createAllSentencesImages(content)
-    //await createYoutubeThumbnail()
-    //await createAfterEffectsScript(content)
+    await convertAllImage(content)
+    await createAllSentencesImages(content)
+    await createYoutubeThumbnail()
+    await createAfterEffectsScript(content)
     await renderVideoWithAfterEffects()
 
     state.save(content)
